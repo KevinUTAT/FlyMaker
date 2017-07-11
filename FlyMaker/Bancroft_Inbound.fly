@@ -1,0 +1,34 @@
+// This .fly file is generated automaticlly by FlyMaker V0.11
+// Copyright 2017, Drone Delivery Canada Inc. All rights reserved.
+
+
+metric
+[recordHistory] = 50
+[disableGcsCmds] = 0xFFFFFFFF
+takeoff
+climb 30
+[disableGcsCmds] = 0
+waitClimb 30
+hoverAt (0, 0)
+climb 1000
+flyTo (77.7803W, 45.0248N)
+climb 1000
+flyTo (77.7525W, 44.9829N)
+climb 1000
+flyTo (77.7553W, 44.915N)
+climb 1000
+flyTo (77.7538W, 44.8525N)
+climb 1000
+flyTo (77.733W, 44.7816N)
+climb 1000
+flyTo (77.7375W, 44.7185N)
+climb 1000
+flyTo (77.7527W, 44.6685N)
+climb 1000
+flyTo (77.783W, 44.6072N)
+climb 1000
+flyTo (77.8191W, 44.5376N)
+circuit (77.8191W, 44.5376N), 0, 0
+repeat -1
+
+

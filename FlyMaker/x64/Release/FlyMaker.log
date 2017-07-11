@@ -1,0 +1,8 @@
+﻿  FlyMaker.cpp
+FlyMaker.cpp(28): warning C4101: 'fileDir': unreferenced local variable
+  Generating code
+  1 of 582 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  FlyMaker.vcxproj -> C:\Dev\DDC\FlyMaker\FlyMaker\x64\Release\FlyMaker.exe

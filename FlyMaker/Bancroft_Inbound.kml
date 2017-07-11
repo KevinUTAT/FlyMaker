@@ -1,0 +1,219 @@
+<?xml version="1.0"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+    <Document>
+        <ExtendedData>
+            <Data name="UUID">
+                <value>{a3f43cc1-16d0-49ed-a430-b0739d077628}</value>
+            </Data>
+        </ExtendedData>
+        <Placemark>
+            <name>WP001</name>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-77.7803168572554,45.0248012622206,1000.0000000000000</coordinates>
+            </Point>
+            <ExtendedData>
+                <Data name="speed (m/s)">
+                    <value>0</value>
+                </Data>
+                <Data name="pauseTime (s)">
+                    <value>0</value>
+                </Data>
+                <Data name="altitude (m)">
+                    <value>1000</value>
+                </Data>
+            </ExtendedData>
+        </Placemark>
+        <Placemark>
+            <name>WP002</name>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-77.7525007343588,44.9829233684213,1000.0000000000000</coordinates>
+            </Point>
+            <ExtendedData>
+                <Data name="speed (m/s)">
+                    <value>0</value>
+                </Data>
+                <Data name="pauseTime (s)">
+                    <value>0</value>
+                </Data>
+                <Data name="altitude (m)">
+                    <value>1000</value>
+                </Data>
+            </ExtendedData>
+        </Placemark>
+        <Placemark>
+            <name>WP003</name>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-77.7552515168443,44.9150406888133,1000.0000000000000</coordinates>
+            </Point>
+            <ExtendedData>
+                <Data name="speed (m/s)">
+                    <value>0</value>
+                </Data>
+                <Data name="pauseTime (s)">
+                    <value>0</value>
+                </Data>
+                <Data name="altitude (m)">
+                    <value>1000</value>
+                </Data>
+            </ExtendedData>
+        </Placemark>
+        <Placemark>
+            <name>WP004</name>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-77.7537781171106,44.8525108031800,1000.0000000000000</coordinates>
+            </Point>
+            <ExtendedData>
+                <Data name="speed (m/s)">
+                    <value>0</value>
+                </Data>
+                <Data name="pauseTime (s)">
+                    <value>0</value>
+                </Data>
+                <Data name="altitude (m)">
+                    <value>1000</value>
+                </Data>
+            </ExtendedData>
+        </Placemark>
+        <Placemark>
+            <name>WP005</name>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-77.7330393969167,44.7816101204260,1000.0000000000000</coordinates>
+            </Point>
+            <ExtendedData>
+                <Data name="speed (m/s)">
+                    <value>0</value>
+                </Data>
+                <Data name="pauseTime (s)">
+                    <value>0</value>
+                </Data>
+                <Data name="altitude (m)">
+                    <value>1000</value>
+                </Data>
+            </ExtendedData>
+        </Placemark>
+        <Placemark>
+            <name>WP006</name>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-77.7374614707853,44.7184955991560,1000.0000000000000</coordinates>
+            </Point>
+            <ExtendedData>
+                <Data name="speed (m/s)">
+                    <value>0</value>
+                </Data>
+                <Data name="pauseTime (s)">
+                    <value>0</value>
+                </Data>
+                <Data name="altitude (m)">
+                    <value>1000</value>
+                </Data>
+            </ExtendedData>
+        </Placemark>
+        <Placemark>
+            <name>WP007</name>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-77.7527128773669,44.6685006080390,1000.0000000000000</coordinates>
+            </Point>
+            <ExtendedData>
+                <Data name="speed (m/s)">
+                    <value>0</value>
+                </Data>
+                <Data name="pauseTime (s)">
+                    <value>0</value>
+                </Data>
+                <Data name="altitude (m)">
+                    <value>1000</value>
+                </Data>
+            </ExtendedData>
+        </Placemark>
+        <Placemark>
+            <name>WP008</name>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-77.7830283580801,44.6072115691416,1000.0000000000000</coordinates>
+            </Point>
+            <ExtendedData>
+                <Data name="speed (m/s)">
+                    <value>0</value>
+                </Data>
+                <Data name="pauseTime (s)">
+                    <value>0</value>
+                </Data>
+                <Data name="altitude (m)">
+                    <value>1000</value>
+                </Data>
+            </ExtendedData>
+        </Placemark>
+        <Placemark>
+            <name>WP009</name>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-77.8191467250292,44.5375841162425,1000.0000000000000</coordinates>
+            </Point>
+            <ExtendedData>
+                <Data name="speed (m/s)">
+                    <value>0</value>
+                </Data>
+                <Data name="pauseTime (s)">
+                    <value>0</value>
+                </Data>
+                <Data name="altitude (m)">
+                    <value>1000</value>
+                </Data>
+            </ExtendedData>
+        </Placemark>
+        <Placemark>
+            <name>Route Bancroft Inbound</name>
+            <Style id="yellowLineSolid">
+                <LineStyle>
+                    <color>ff00ffff</color>
+                    <width>4</width>
+                </LineStyle>
+            </Style>
+            <LineString>
+                <extrude>false</extrude>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-77.7803168572554,45.0248012622206,1000.0000000000000
+-77.7525007343588,44.9829233684213,1000.0000000000000
+-77.7552515168443,44.9150406888133,1000.0000000000000
+-77.7537781171106,44.8525108031800,1000.0000000000000
+-77.7330393969167,44.7816101204260,1000.0000000000000
+-77.7374614707853,44.7184955991560,1000.0000000000000
+-77.7527128773669,44.6685006080390,1000.0000000000000
+-77.7830283580801,44.6072115691416,1000.0000000000000
+-77.8191467250292,44.5375841162425,1000.0000000000000
+</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>Route Bancroft Inbound (on ground)</name>
+            <Style id="yellowLineSemiTransparent">
+                <LineStyle>
+                    <color>7f00ffff</color>
+                    <width>4</width>
+                </LineStyle>
+            </Style>
+            <LineString>
+                <extrude>false</extrude>
+                <tessellate>1</tessellate>
+                <altitudeMode>clampToGround</altitudeMode>
+                <coordinates>-77.7803168572554,45.0248012622206,1000.0000000000000
+-77.7525007343588,44.9829233684213,1000.0000000000000
+-77.7552515168443,44.9150406888133,1000.0000000000000
+-77.7537781171106,44.8525108031800,1000.0000000000000
+-77.7330393969167,44.7816101204260,1000.0000000000000
+-77.7374614707853,44.7184955991560,1000.0000000000000
+-77.7527128773669,44.6685006080390,1000.0000000000000
+-77.7830283580801,44.6072115691416,1000.0000000000000
+-77.8191467250292,44.5375841162425,1000.0000000000000
+</coordinates>
+            </LineString>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,199 @@
+<?xml version="1.0"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+    <Document>
+        <ExtendedData>
+            <Data name="UUID">
+                <value>{f7fc05ff-e67c-401e-8cbd-95d8b6845493}</value>
+            </Data>
+        </ExtendedData>
+        <Placemark>
+            <name>WP018</name>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-77.8466149728040,44.5067574287117,91.4400000000000</coordinates>
+            </Point>
+            <ExtendedData>
+                <Data name="speed (m/s)">
+                    <value>0</value>
+                </Data>
+                <Data name="pauseTime (s)">
+                    <value>0</value>
+                </Data>
+                <Data name="altitude (m)">
+                    <value>91.44</value>
+                </Data>
+            </ExtendedData>
+        </Placemark>
+        <Placemark>
+            <name>WP019</name>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-77.8809343732871,44.5691969402266,91.4400000000000</coordinates>
+            </Point>
+            <ExtendedData>
+                <Data name="speed (m/s)">
+                    <value>0</value>
+                </Data>
+                <Data name="pauseTime (s)">
+                    <value>0</value>
+                </Data>
+                <Data name="altitude (m)">
+                    <value>91.44</value>
+                </Data>
+            </ExtendedData>
+        </Placemark>
+        <Placemark>
+            <name>WP020</name>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-77.8172409539549,44.6441756887061,91.4400000000000</coordinates>
+            </Point>
+            <ExtendedData>
+                <Data name="speed (m/s)">
+                    <value>0</value>
+                </Data>
+                <Data name="pauseTime (s)">
+                    <value>0</value>
+                </Data>
+                <Data name="altitude (m)">
+                    <value>91.44</value>
+                </Data>
+            </ExtendedData>
+        </Placemark>
+        <Placemark>
+            <name>WP021</name>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-77.8145161806837,44.7388562819092,91.4400000000000</coordinates>
+            </Point>
+            <ExtendedData>
+                <Data name="speed (m/s)">
+                    <value>0</value>
+                </Data>
+                <Data name="pauseTime (s)">
+                    <value>0</value>
+                </Data>
+                <Data name="altitude (m)">
+                    <value>91.44</value>
+                </Data>
+            </ExtendedData>
+        </Placemark>
+        <Placemark>
+            <name>WP022</name>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-77.8907463029595,44.8014449106521,91.4400000000000</coordinates>
+            </Point>
+            <ExtendedData>
+                <Data name="speed (m/s)">
+                    <value>0</value>
+                </Data>
+                <Data name="pauseTime (s)">
+                    <value>0</value>
+                </Data>
+                <Data name="altitude (m)">
+                    <value>91.44</value>
+                </Data>
+            </ExtendedData>
+        </Placemark>
+        <Placemark>
+            <name>WP023</name>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-77.8646008983878,44.8931360039289,91.4400000000000</coordinates>
+            </Point>
+            <ExtendedData>
+                <Data name="speed (m/s)">
+                    <value>0</value>
+                </Data>
+                <Data name="pauseTime (s)">
+                    <value>0</value>
+                </Data>
+                <Data name="altitude (m)">
+                    <value>91.44</value>
+                </Data>
+            </ExtendedData>
+        </Placemark>
+        <Placemark>
+            <name>WP024</name>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-77.7979682152251,44.9812040312399,91.4400000000000</coordinates>
+            </Point>
+            <ExtendedData>
+                <Data name="speed (m/s)">
+                    <value>0</value>
+                </Data>
+                <Data name="pauseTime (s)">
+                    <value>0</value>
+                </Data>
+                <Data name="altitude (m)">
+                    <value>91.44</value>
+                </Data>
+            </ExtendedData>
+        </Placemark>
+        <Placemark>
+            <name>WP025</name>
+            <Point>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-77.8298467409275,45.0372178468567,91.4400000000000</coordinates>
+            </Point>
+            <ExtendedData>
+                <Data name="speed (m/s)">
+                    <value>0</value>
+                </Data>
+                <Data name="pauseTime (s)">
+                    <value>0</value>
+                </Data>
+                <Data name="altitude (m)">
+                    <value>91.44</value>
+                </Data>
+            </ExtendedData>
+        </Placemark>
+        <Placemark>
+            <name>Route Bancroft Outbound</name>
+            <Style id="yellowLineSolid">
+                <LineStyle>
+                    <color>ff00ffff</color>
+                    <width>4</width>
+                </LineStyle>
+            </Style>
+            <LineString>
+                <extrude>false</extrude>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-77.8466149728040,44.5067574287117,91.4400000000000
+-77.8809343732871,44.5691969402266,91.4400000000000
+-77.8172409539549,44.6441756887061,91.4400000000000
+-77.8145161806837,44.7388562819092,91.4400000000000
+-77.8907463029595,44.8014449106521,91.4400000000000
+-77.8646008983878,44.8931360039289,91.4400000000000
+-77.7979682152251,44.9812040312399,91.4400000000000
+-77.8298467409275,45.0372178468567,91.4400000000000
+</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>Route Bancroft Outbound (on ground)</name>
+            <Style id="yellowLineSemiTransparent">
+                <LineStyle>
+                    <color>7f00ffff</color>
+                    <width>4</width>
+                </LineStyle>
+            </Style>
+            <LineString>
+                <extrude>false</extrude>
+                <tessellate>1</tessellate>
+                <altitudeMode>clampToGround</altitudeMode>
+                <coordinates>-77.8466149728040,44.5067574287117,91.4400000000000
+-77.8809343732871,44.5691969402266,91.4400000000000
+-77.8172409539549,44.6441756887061,91.4400000000000
+-77.8145161806837,44.7388562819092,91.4400000000000
+-77.8907463029595,44.8014449106521,91.4400000000000
+-77.8646008983878,44.8931360039289,91.4400000000000
+-77.7979682152251,44.9812040312399,91.4400000000000
+-77.8298467409275,45.0372178468567,91.4400000000000
+</coordinates>
+            </LineString>
+        </Placemark>
+    </Document>
+</kml>
